@@ -1,0 +1,10 @@
+/* JHU David Chu's restaurant
+
+colours: #557c3e (green), #f6b319 (yellow), #c61e24 (red), #363636 (grey); 
+
+*/
+
+body {
+	background-color: #c61e24;
+	font-family: "Oxygen" sans-serif;
+}
